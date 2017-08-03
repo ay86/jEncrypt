@@ -1,0 +1,31 @@
+{
+  "name": "jencrypt",
+  "version": "1.0.0",
+  "description": "JavaScript encrypt based on the jjencode",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ay86/jEncrypt.git"
+  },
+  "keywords": [
+    "encrypto",
+    "encode",
+    "jjencode"
+  ],
+  "author": "Angus.Young",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ay86/jEncrypt/issues"
+  },
+  "homepage": "https://github.com/ay86/jEncrypt#readme",
+  "devDependencies": {
+    "console-colors-node": "^1.0.1"
+  }
+}
